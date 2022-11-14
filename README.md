@@ -1,4 +1,4 @@
 # Traffic-Light-Simulator
 ## Wallace Obey
 
-This project demonstrates Working with the STM32 microcontrollers 
+Designed a Traffic Light Simulator using C, STM32, QEMU Overlays, and Design Patterns 
