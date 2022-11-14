@@ -1,6 +1,5 @@
-# EN 525.615.82:  Laboratory 2
+# Traffic-Light-Simulator
 ## Wallace Obey
-10/07/2021
 
 ## Introduction
 The goal of this lab is to gain famililarity with the STM32 NUCLEO-F103RB board, QEMU system simulator, and the state machine design pattern. The layout of the chip (pins, buttons, LEDs etc..), QEMU interface/simulator, and logic of designing finite state machine  (FSM) were all explored. An embedded hello world and traffic light simulator were created to demonstrate concepts learned in this lab. 
