@@ -281,4 +281,4 @@ Figure 30: EW_Stopped_SIM
 These are all the states summaried. 
 
 ## Conclusion
-This project thoroughly demonstrates how the microcontroller, QEMU system simulator, and FSM came together to create a traffic simualtor. For more inforamtion visit https://github.com/wobeyJHU. There is a working demo of the simulator. 
+This project thoroughly demonstrates how the microcontroller, QEMU system simulator, and FSM came together to create a traffic simualtor. For more inforamtion visit https://github.com/wobey96/Traffic-Light-Simulator. There is a working demo of the simulator. 
